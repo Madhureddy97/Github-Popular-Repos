@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.github-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.popular-heading {
+  font-family: 'Lobster';
+  font-size: 60px;
+}
+.languages-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+.repository-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+  flex-wrap: wrap;
+}

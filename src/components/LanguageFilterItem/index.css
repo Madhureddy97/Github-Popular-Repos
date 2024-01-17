@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.normal-btn {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin: 20px;
+  color: #0f172a;
+  font-weight: 600;
+  border-width: 0px;
+  background-color: transparent;
+  padding-left:20px;
+  padding-right:20px;
+  padding-top:10px;
+  padding-bottom:10px;
+  border-radius:10px;
+}
+.active-btn {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+}

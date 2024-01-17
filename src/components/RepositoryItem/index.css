@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.each-repository-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  margin: 50px;
+  padding: 40px;
+}
+.each-repository-top-image {
+  height: 100px;
+  width: 100px;
+}
+.each-repository-name {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #e73959;
+}
+.counts-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.each-count-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.each-image {
+  height: 30px;
+  width: 30px;
+  margin-right:10px;
+}
+.each-count {
+  font-family: 'Roboto';
+  font-size: 20px;
+}
